@@ -1,6 +1,14 @@
-# SECHEX-SPOOFY ACTIVE VIP LICENSES
-SECHEX-FREE-TRIAL-9921
-SPOOFY-ADMIN-KEY-883A
-ALPHA-CLEANER-Z72X
-VIP-USER-5510-OP
-ADMIN
+# ─────────────────────────────────────────────────────────────
+# RAIDERSNATION OFFICIAL LIVE KEY DATABASE
+# FORMAT RULES: KEY_NAME,VIP,STATUS
+# STATUS CAN BE: 'UNUSED' (Single-use) OR 'YYYY-MM-DD' (Timed)
+# ─────────────────────────────────────────────────────────────
+
+# --- 1-Day / Single-Use Keys ---
+RAIDERS-FREE-TRIAL-KEY1,VIP,UNUSED
+RAIDERS-FREE-TRIAL-KEY2,VIP,UNUSED
+
+# --- Daily / Monthly Timed Keys ---
+RAIDERS-VIP-WEEKLY-A99,VIP,2026-05-23
+RAIDERS-VIP-MONTHLY-B11,VIP,2026-06-16
+
