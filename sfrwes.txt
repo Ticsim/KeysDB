@@ -1,0 +1,23 @@
+If you update keys.txt
+Git will mark it as modified.
+You can then:
+git status to see the change
+git add keys.txt
+git commit -m "Update keys.txt"
+git push
+Important note
+If keys.txt contains secrets, pushing updates will keep them in the repo history.
+In that case, it’s better to:
+remove it from git
+add it to .gitignore
+use a secure secret management method instead
+If you want, I can show you the exact commands to update it safely.
+
+
+Safe update workflow
+If you just want to update keys.txt:
+cd 'c:\Users\jaime\Downloads\TraceClean'
+git status
+git add keys.txt
+git commit -m "Update keys.txt"
+git push
