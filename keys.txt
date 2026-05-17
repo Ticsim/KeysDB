@@ -4,13 +4,10 @@
 # STATUS CAN BE: 'UNUSED' (Single-use) OR 'YYYY-MM-DD' (Timed)
 # ─────────────────────────────────────────────────────────────
 
-# --- 1-Day / Single-Use Keys ---
-RAIDERS-FREE-TRIAL-KEY1,VIP,UNUSED
-RAIDERS-FREE-TRIAL-KEY2,VIP,UNUSED
-RAIDERS-FREE-TRIAL-KEY3,Free,UNUSED
+# ── CLEANER TIER KEYS (Cleaner Only) ─────────────────────────
+RAIDERS-CLEAN-TEST1,CLEANER,UNUSED
+RAIDERS-CLEAN-MONTH,CLEANER,2026-07-15
 
-# --- Daily / Monthly Timed Keys ---
-RAIDERS-VIP-WEEKLY-A99,VIP,2026-05-23
-RAIDERS-VIP-MONTHLY-B11,VIP,2026-06-16
-RAIDERS-TEST-VIP,VIP,2026-06-30
-
+# ── VIP TIER KEYS (Cleaner + Temporary Spoofer) ──────────────
+RAIDERS-VIP-TEST1,VIP,UNUSED
+RAIDERS-VIP-MONTH,VIP,2026-07-15
